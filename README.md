@@ -39,6 +39,7 @@ A desktop-based Pharmacy Management System built using Java & Swing. This applic
 ## 📸 Screenshot
 
 (Add your app screenshot here later)
+<img width="1918" height="1078" alt="project" src="https://github.com/user-attachments/assets/083c1d68-d104-4489-9c5a-813411023f5c" />
 
 ---
 
