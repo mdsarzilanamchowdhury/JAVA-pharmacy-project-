@@ -1,0 +1,3 @@
+MED-001|Cough Suppressant|Beximco
+MED-002|Paracetamol|Eskayef
+MED-003|Blood pressure|Renata

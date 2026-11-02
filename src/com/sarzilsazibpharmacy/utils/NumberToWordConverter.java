@@ -1,4 +1,4 @@
-package com.sarzilpharmacy.utils;
+package com.sarzilsazibpharmacy.utils;
 
 public class NumberToWordConverter {
     private static final String[] units = {
